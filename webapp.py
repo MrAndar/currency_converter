@@ -22,3 +22,4 @@ if amount:
     except ValueError:
         st.info("Amount must be a number.")
 
+print("hello")
